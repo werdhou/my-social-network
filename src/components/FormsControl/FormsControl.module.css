@@ -1,0 +1,15 @@
+
+.textarea.error span {
+    color: red;
+    display: flex;
+}
+
+.textarea.error textarea {
+    border: 2px solid red;
+}
+
+.formSummayError {
+    padding: 5px;
+    color: rgb(255, 0, 0);
+
+}

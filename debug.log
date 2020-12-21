@@ -1,0 +1,7 @@
+[1123/133157.116:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1123/202720.261:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1124/121259.036:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1130/125720.416:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1130/170056.127:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Sergey\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\b12f9a4c-5034-4e8c-abba-b623771ac8be: Системе не удается найти указанный путь. (0x3)
+[1130/171756.766:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1212/164234.969:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
